@@ -6,6 +6,7 @@ Using TypeScript in VSCODE
 4.- npm install -g typescript
 5.- Click on new Terminal -> Git Bash
 6.- tsc --version should show the TypeScript version
+8.- tsc --init for tsconfigure.json
 7.- tsc filename.ts for creating JavaScript
 8.- node filename.js for executing
 
