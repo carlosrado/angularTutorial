@@ -11,4 +11,5 @@ Using TypeScript in VSCODE
 7.- tsc filename.ts for creating JavaScript
 8.- node filename.js for executing
 
+For using lite-server go https://www.geeksforgeeks.org/how-to-install-and-use-lite-server-in-your-project/
 
