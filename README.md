@@ -56,5 +56,6 @@ ng g s servicename
 //add services
 app.modules.ts
 providers:[servicename]
-//add page not found
-ng g c page-not-found
+//add new module
+ng g m modulename
+
